@@ -25,7 +25,7 @@ Scrawler is an AI-powered sales enablement tool designed to help IT service prov
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sharjeelbaig/AI-Powered-Sales-Lead-Generation-Tool
    cd scrawler
    ```
 
